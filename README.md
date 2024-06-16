@@ -1,11 +1,11 @@
-![cover (1)](https://user-images.githubusercontent.com/127603725/226106674-7aedcef1-88ae-4505-b8e5-b765959895e1.png)
+![cover](https://github.com/nikoleta-dimitrova/nikoleta-dimitrova/assets/127603725/891f700d-6ec1-40b1-b946-748a8f1652fc)
 
 ### Hi there - My name is Nikoleta👋
 I'm currently studying ICT & Media Design at Fontys. Want to see my work? Check my portfolio. :tada:
 
 ### I love design and being creative
 - 📫 How to reach me: n.v.d.nikoleta@gmail.com
-- 🌱 I am currently doing my specialisation and I am focusing on mobile development and research 
+- 🌱 I am currently doing advanced media design, focusing on concept creation, branding, and research 
 - :heart: My hobbies: music, dancing, books
 - 💬 Ask me about user research, visual design, concept creation, design principles
 
