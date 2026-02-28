@@ -4,7 +4,7 @@
 I'm currently studying ICT & Media Design at Fontys. Want to see my work? Check my portfolio. :tada:
 
 ### I love design and being creative
-- 📫 How to reach me: n.v.d.nikoleta@gmail.com
+- 📫 How to reach me: hey@nikoleta-dimitrova.com
 - 🌱 I am currently doing advanced media design, focusing on concept creation, branding, and research 
 - :heart: My hobbies: music, dancing, books
 - 💬 Ask me about user research, visual design, concept creation, design principles
